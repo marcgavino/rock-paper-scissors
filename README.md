@@ -1,0 +1,1 @@
+A simple Rock, Paper, Scissors game against the computer in 5 rounds. Use the console in developer tools to play.
